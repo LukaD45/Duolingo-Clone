@@ -2,7 +2,6 @@ import { Button } from "@/components/ui/button";
 import {
   ClerkLoaded,
   ClerkLoading,
-  SignIn,
   SignInButton,
   SignedIn,
   SignedOut,
